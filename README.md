@@ -42,8 +42,6 @@ Několik krátkých českých návodů:
 * [Spolupráce a Open source](http://naucse.python.cz/lessons/git/collaboration/)
 * [Spolupráce a Git](http://naucse.python.cz/lessons/git/git-collaboration-2in1/)
 
-Rozcestník kurzů najdete na <https://try.github.io/>
-
 
 Existuje volně šiřitelná kniha [Pro Git][] ve které najdete vše potřebné v
 češtině. Lze číst i na webu: 
@@ -53,6 +51,13 @@ Existuje volně šiřitelná kniha [Pro Git][] ve které najdete vše potřebné
 
 Pro efektivní používaní tohoto skvělého nástroje vám stačí přečíst si **první tři
 kapitoly**. Nenechte se tedy odradit, stojí to jistě za to.
+
+Rozcestník kurzů najdete na <https://try.github.io/>.
+
+## Tahák
+
+* [big-git-cs.pdf](big-git-cs.pdf)
+
 
 ## SSH klíče
 
