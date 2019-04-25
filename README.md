@@ -11,7 +11,7 @@
 [Pro Git]: https://knihy.nic.cz/#ProGit
 
 
-## Co to je?
+## Co to je?  git a github
 
 * [Git][]
 * [GitHub][]
