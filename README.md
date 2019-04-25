@@ -1,6 +1,6 @@
 # Seminář Git a GitHub
 
-(SPŠE 25. 4. 2019)
+(SPŠE 25. 4. 2019) Aaajajajaj
 
 
 [Git]: https://cs.wikipedia.org/wiki/Git
