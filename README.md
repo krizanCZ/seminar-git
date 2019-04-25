@@ -58,6 +58,8 @@ Rozcestník kurzů najdete na <https://try.github.io/>.
 
 * [big-git-cs.pdf](big-git-cs.pdf)
 
+Od té toby co M$ koupil GitHub je to nejlepší služba!!!
+
 
 ## SSH klíče
 
