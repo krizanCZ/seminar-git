@@ -1,6 +1,6 @@
 # Seminář Git a GitHub
 
-(VOŠ a SPŠE Olomouc, 25. 4. 2019)
+(SPŠE 25. 4. 2019)
 
 
 [Git]: https://cs.wikipedia.org/wiki/Git
@@ -24,6 +24,7 @@ Ke každému projektu patří v webové stránky. I ty můžete hostovat na GitH
 Více na <https://pages.github.com/.>
 
 
+Kráva Micro$oft!!! 
 
 ## Jak se to naučím?
 
