@@ -1,4 +1,7 @@
-# Seminář Git a GitHub  BBBBBBBBBB
+
+# Seminář Git a GitHub  CCCCCCC
+
+
 
 (SPŠE 25. 4. 2019) Aaajajajaj
 
